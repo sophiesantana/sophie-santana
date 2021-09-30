@@ -1,12 +1,13 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="400px"> <br>
-<div>
-  <h2><strong>Hey There 👋</strong></h2>
+
+  <h2><strong>Hey There! 👋</strong></h2>
   <h1> I'm Douglas Santana 🙌 </h1>
-</div>
+
 <br>
 <div>
   <h3> <strong>I'm front-end developer and full stack student at Trybe!</strong></h3>
-  <h3> 👨‍💻 See some of my projects: https://douglas-santana.github.io/dougsantana.github.io/ </h3>
+  <h3> 👨‍💻 See some of my projects:</h3>
+  <p>https://douglas-santana.github.io/dougsantana.github.io/</p>
 </div>
 <br>  
 <div>

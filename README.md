@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="400px"> <br>
 <div>
-  <p><strong>Olá 👋, eu sou o Douglas-Santana</strong></p>
-  <p> Sou uma pessoa criativa que ama trabalhar em equipe!! <br> então bora codar enquanto desenvolvemos nossas soft-skills e fazemos novas amizades 🙌 </p>
+  <p><strong>Hey There 👋</strong></p>
+  <p> I'm Douglas Santana 🙌 </p>
 </div>
 <br>
 <div>

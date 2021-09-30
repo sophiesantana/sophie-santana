@@ -22,6 +22,7 @@
   <img width="50px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png" />
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+  <img width="50px" src="https://testing-library.com/img/octopus-128x128.png" />
 </p>
 <p>
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />

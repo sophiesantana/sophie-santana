@@ -4,19 +4,13 @@
   <h2><strong>Hey There! 👋</strong></h2>
   <h1> I'm Douglas Santana 🙌 </h1>
 <div>
-
-<br>
   
 <div>
   <h3> <strong>I'm front-end developer and full stack student at Trybe!</strong></h3>
   
-  <br>
-  
   <h3> 👨‍💻 See some of my projects:</h3>
   <p>https://douglas-santana.github.io/dougsantana.github.io/</p>
 </div>
-  
-<br>
  
 <div>
   <h1><strong>My Main Hard Skills:</strong></h1>

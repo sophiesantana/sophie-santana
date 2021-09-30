@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="400px"> <br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="400px">
 
 <div>
   <h2><strong>Hey There! 👋</strong></h2>
@@ -43,10 +43,10 @@
 <div>
   <p><strong>📫 Follow my social networks:</strong></p>
   <a target="_blank" href="https://www.linkedin.com/in/douglasdns/" rel="nofollow">
-   <img alt="LinkdeIn's Douglas Santana" width="40px" src="https://camo.githubusercontent.com/7896e305249b958e8aa7638ca2e0bcff692290215240eabf8db02a570d2e0835/68747470733a2f2f692e6962622e636f2f4b7832475372542f6c696e6b6564696e2e706e67">
+   <img width="50px" alt="LinkdeIn's Douglas Santana" width="40px" src="https://camo.githubusercontent.com/7896e305249b958e8aa7638ca2e0bcff692290215240eabf8db02a570d2e0835/68747470733a2f2f692e6962622e636f2f4b7832475372542f6c696e6b6564696e2e706e67">
   </a>
   <a target="_blank" href="https://www.instagram.com/douguinhodns/" rel="nofollow">
-   <img alt="Instagram's Douglas Santana" width="40px" src="https://camo.githubusercontent.com/109977a284aefe0c20628563ac58b29776daad72fdaf4bdbff46cbc34c922a03/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f313231312f504e472f3531322f313439313537393630322d79756d6d696e6b79736f6369616c6d6564696133365f38333036372e706e67">
+   <img width="50px" alt="Instagram's Douglas Santana" width="40px" src="https://camo.githubusercontent.com/109977a284aefe0c20628563ac58b29776daad72fdaf4bdbff46cbc34c922a03/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f313231312f504e472f3531322f313439313537393630322d79756d6d696e6b79736f6369616c6d6564696133365f38333036372e706e67">
   </a>
 </div>
   

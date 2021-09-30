@@ -6,7 +6,7 @@
 <br>
 <div>
   <h3> <strong>I'm front-end developer and full stack student at Trybe!</strong></h3>
-  <h3> 👨‍💻 See some of my projects: https://vinigofr.github.io/ </h3>
+  <h3> 👨‍💻 See some of my projects: https://douglas-santana.github.io/dougsantana.github.io/ </h3>
 </div>
 <br>  
 <div>

@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="400px">
+<img width="300px" align="right" alt="GIF cat programming" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif">
 
 <div>
   <h2><strong>Hey There! 👋</strong></h2>

@@ -51,6 +51,9 @@
   
  <br>
   
-  <img height="160em" src="https://camo.githubusercontent.com/92b436b89ca679e9b306f185cd07ce1da0b27b5780eec54a2b9f97a612f03934/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d766d6573322673686f775f69636f6e733d74727565267468656d653d64726163756c6126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=douglas-santana&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
-  
-  <img height="160em" src="https://camo.githubusercontent.com/60f869ec8bf5e1cbd18f8deb32b906e268252427790a3738fbdd497dcbf50ff6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d766d657332266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-santana&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
+<div>
+  <a href="https://github.com/douglas-santana">
+    <img height="160em" src="https://camo.githubusercontent.com/92b436b89ca679e9b306f185cd07ce1da0b27b5780eec54a2b9f97a612f03934/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6d766d6573322673686f775f69636f6e733d74727565267468656d653d64726163756c6126696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=douglas-santana&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">
+    <img height="160em" src="https://camo.githubusercontent.com/60f869ec8bf5e1cbd18f8deb32b906e268252427790a3738fbdd497dcbf50ff6/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6d766d657332266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-santana&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
+  </a>
+</div>

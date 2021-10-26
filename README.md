@@ -12,41 +12,36 @@
   <p>https://douglas-santana.github.io/portifolio/</p>
 </div>
  
+  <h3><strong>Main Hard Skills:</strong></h3>
+<p>
+  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
+  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img width="30px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png" />
+  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+  <img width="30px" src="https://testing-library.com/img/octopus-128x128.png" />
+</p>
+<p>
+  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img width="30px" src="https://camo.githubusercontent.com/b038408a220da15a2710d79f3bc3834c9fa8c32c7ceb22f8554c5799ceea768e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6368612f6d6f6368612d706c61696e2e737667" />
+  <img width="50px" src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" />
+</p>
+  
 <div>
-  <h1><strong>My Main Hard Skills:</strong></h1>
-<p>
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img width="50px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png" />
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
-  <img width="50px" src="https://testing-library.com/img/octopus-128x128.png" />
-</p>
-<p>
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img width="50px" src="https://camo.githubusercontent.com/b038408a220da15a2710d79f3bc3834c9fa8c32c7ceb22f8554c5799ceea768e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6368612f6d6f6368612d706c61696e2e737667" />
-  <img width="75px" src="https://user-images.githubusercontent.com/11978772/40430986-a0eb7b92-5e63-11e8-80eb-43fe07f664a6.png" />
-</p>
+  <a href="https://github.com/douglas-santana">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=douglas-santana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-santana&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-<br>
-  
-<div>
   <p><strong>📫 Follow my social networks:</strong></p>
   <div>
     <a href="https://www.linkedin.com/in/douglasdns/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkdeIn's Douglas Santana"></a>
     <a href="https://www.instagram.com/douguinhodns/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram's Douglas Santana"></a>
    <a href = "mailto:douguinhodns@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
  </div>
-  
-<div>
-  <a href="https://github.com/douglas-santana">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=douglas-santana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-santana&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)

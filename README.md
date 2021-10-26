@@ -6,7 +6,7 @@
 <div>
   
 <div>
-  <h3> <strong>I'm front-end developer and full stack student at Trybe!</strong></h3>
+  <h3> <strong>Full Stack Student at <strong><a href="https://https://www.betrybe.com/" target="_blank">Trybe!</a></strong></h3>
   
   <h3> 👨‍💻 See some of my projects:</h3>
   <p>https://douglas-santana.github.io/portifolio/</p>
@@ -37,15 +37,16 @@
   
 <div>
   <p><strong>📫 Follow my social networks:</strong></p>
-  <a target="_blank" href="https://www.linkedin.com/in/douglasdns/" rel="nofollow">
-   <img width="50px" alt="LinkdeIn's Douglas Santana" width="40px" src="https://camo.githubusercontent.com/7896e305249b958e8aa7638ca2e0bcff692290215240eabf8db02a570d2e0835/68747470733a2f2f692e6962622e636f2f4b7832475372542f6c696e6b6564696e2e706e67">
-  </a>
-  <a target="_blank" href="https://www.instagram.com/douguinhodns/" rel="nofollow">
-   <img width="50px" alt="Instagram's Douglas Santana" width="40px" src="https://camo.githubusercontent.com/109977a284aefe0c20628563ac58b29776daad72fdaf4bdbff46cbc34c922a03/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f313231312f504e472f3531322f313439313537393630322d79756d6d696e6b79736f6369616c6d6564696133365f38333036372e706e67">
-  </a>
-</div>
+  <div>
+    <a href="https://www.linkedin.com/in/douglasdns/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkdeIn's Douglas Santana"></a>
+    <a href="https://www.instagram.com/douguinhodns/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram's Douglas Santana"></a>
+   <a href = "mailto:douguinhodns@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+ </div>
   
-<br>
+<div>
+  <a href="https://github.com/douglas-santana">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=douglas-santana&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglas-santana&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=douglas-santana&show_icons=true)](https://github.com/douglas-santana/github-readme-stats)
-
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)

@@ -6,7 +6,7 @@
 <div>
   
 <div>
-  <h3> <strong>Full Stack Student at <strong><a href="https://https://www.betrybe.com/" target="_blank">Trybe!</a></strong></h3>
+  <h3> <strong>Junior Web Developer Full Stack</a></strong></h3>
   
   <h3> 👨‍💻 See some of my projects:</h3>
   <p>https://douglas-santana.github.io/portifolio/</p>

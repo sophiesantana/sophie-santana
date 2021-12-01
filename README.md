@@ -1,12 +1,9 @@
 <img width="300px" align="right" alt="GIF cat programming" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif">
 
-<div>
-  <h2><strong>Hey There! 👋</strong></h2>
   <h1> I'm Douglas Santana 🙌 </h1>
-<div>
   
 <div>
-  <h3> <strong>Junior Developer Backend | Software Developer Web Full Stack Studant</a></strong></h3>
+  <h3> <strong>Junior Developer Backend</strong> | Software Developer Web Full Stack Studant</h3>
   
   <h3> 👨‍💻 See some of my projects:</h3>
   <p>https://douglas-santana.github.io/portifolio/</p>

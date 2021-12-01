@@ -4,10 +4,11 @@
   
 ## Junior Developer Backend
 ### Software Developer Web Full Stack Studant
-  
-## 👨‍💻 See some of my projects:
-<a href="https://douglas-santana.github.io/portifolio/" target="_blank">
- 
+
+<br>
+
+<a href="https://douglas-santana.github.io/portifolio/" target="_blank"><h2>👨‍💻 click here to see some of my projects<h2></a>
+
 ### Main Hard Skills:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

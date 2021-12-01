@@ -6,7 +6,7 @@
 <div>
   
 <div>
-  <h3> <strong>Junior Developer Backend</a></strong></h3>
+  <h3> <strong>Junior Developer Backend | Software Developer Web Full Stack Studant</a></strong></h3>
   
   <h3> 👨‍💻 See some of my projects:</h3>
   <p>https://douglas-santana.github.io/portifolio/</p>

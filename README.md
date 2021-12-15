@@ -7,7 +7,7 @@
 
 <br>
 
-<a href="https://douglas-santana.github.io/portifolio/" target="_blank"><h2>👨‍💻 click here to see some of my projects<h2></a>
+<a href="https://douglas-santana.github.io/portifolio/" target="_blank"><h2>👨‍💻 click here to see my personal website<h2></a>
 
 ### Main Hard Skills:
 

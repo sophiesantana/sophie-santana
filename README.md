@@ -2,7 +2,7 @@
 
 # I'm Douglas Santana 🙌
   
-## Junior Backend Developer
+## Junior Developer
 ### Software Developer Web Full Stack Studant
 
 <br>

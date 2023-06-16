@@ -1,9 +1,8 @@
 <img width="300px" align="right" alt="GIF cat programming" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif">
 
-# I'm Douglas Santana 🙌
+# I'm Sophie Santana 🙌
   
-## Junior Developer
-### Software Developer Web Full Stack Studant
+## Junior Web Developer
 
 <br>
 

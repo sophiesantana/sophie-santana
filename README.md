@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="https://douglas-santana.github.io/portifolio/" target="_blank"><h2>👨‍💻 click here to see my personal website<h2></a>
+<a href="https://sophiesantana.github.io/portifolio" target="_blank">👨‍💻 click here to see my personal website</a>
 
 ### Main Hard Skills:
 
@@ -32,6 +32,6 @@
   
 ## 📫 Follow my social networks:
 
-<a href="https://www.linkedin.com/in/douglasdns/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkdeIn's Douglas Santana">
-<a href="https://www.instagram.com/douguinhodns/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram's Douglas Santana">
-<a href = "mailto:douguinhodns@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<a href="https://www.linkedin.com/in/douglasdns/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkdeIn's Sophie Santana">
+<a href="https://www.instagram.com/ssophiedev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram's Sophie Santana">
+<a href = "mailto:ssophiesantana@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
